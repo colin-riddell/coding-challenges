@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 public class Anagram {
     public static void solution(String[] firstWords, String[] secondWords){
-        
+
         for (int i =0; i < firstWords.length; i++){
             String answer = "1";
 
